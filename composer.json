@@ -6,7 +6,9 @@
             "email": "767036228@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^7.0"
+    },
     "autoload": {
         "psr-4": {
             "Zcmzc\\": "src/"
