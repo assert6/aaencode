@@ -1,0 +1,15 @@
+{
+    "name": "zcmzc/aaencode",
+    "authors": [
+        {
+            "name": "zhangchengming",
+            "email": "767036228@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zcmzc\\": "src/"
+        }
+    }
+}
