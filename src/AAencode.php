@@ -9,7 +9,7 @@
 namespace Zcmzc;
 
 
-class AAencode
+class AAEncode
 {
     private static $feature = [
         'header'  => "\(ﾟεﾟ\+\(ﾟДﾟ\)\[ﾟoﾟ\]\+ ",

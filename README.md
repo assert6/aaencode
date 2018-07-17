@@ -5,7 +5,7 @@ composer require zcmzc/aaencode
 ```
 ## 使用
 ```php
-use Zcmzc\AAencode;
+use Zcmzc\AAEncode;
 
-$code = AAencode::decode($code);
+$code = AAEncode::decode($code);
 ```
